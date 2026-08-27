@@ -1,6 +1,6 @@
 # 🙊 Sarcasm Classifier
 
-A small learning project for **SemEval-2018 Task 3, Subtask A**, classifying tweets as ironic or non-ironic. It uses the Hugging Face
+A small project for **SemEval-2018 Task 3, Subtask A**, classifying tweets as ironic or non-ironic. Using the Hugging Face
 `cardiffnlp/tweet_eval` **irony** configuration, which republishes this task in a convenient standard format and a TF-IDF + logistic regression model.
 
 TF-IDF (Term Frequency–Inverse Document Frequency) converts important words into numerical features, and logistic regression uses those features to predict whether a tweet is ironic.
