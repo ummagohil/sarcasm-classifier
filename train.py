@@ -1,4 +1,3 @@
-"""Train and evaluate a baseline for SemEval-2018 Task 3, Subtask A."""
 
 from pathlib import Path
 

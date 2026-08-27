@@ -1,4 +1,3 @@
-"""Use the saved classifier on your own text."""
 
 import argparse
 from pathlib import Path
