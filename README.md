@@ -33,7 +33,7 @@ python train.py
 python predict.py "Your example tweet"
 ```
 
-## Project files
+## 🖥️ Project files
 
 - `download_data.py` downloads and previews the data
 - `train.py` creates, evaluates, prints, and saves the classifier
